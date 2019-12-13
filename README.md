@@ -1,5 +1,5 @@
 ********************************************************************************************
-                                  Project Description        
+                                              Project Description        
 ********************************************************************************************
 
 Team members: 5 CS undergrads Students of the National School of Engineers of Sfax, Tunisia.
@@ -12,9 +12,9 @@ Our aim was to detect a Gas Leak ( testing was done with the gas in a lighter; B
 using ESP8266 a low-cost Wi-Fi microchip.
 
 
-Framework: Arduino 
-IDE: atom + Platformio
-CAD software: Fritzing
+Framework: Arduino <br>
+IDE: atom + Platformio <br>
+CAD software: Fritzing <br>
 
 
 
