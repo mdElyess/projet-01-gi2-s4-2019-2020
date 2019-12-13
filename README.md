@@ -1,5 +1,5 @@
 ********************************************************************************************
-*************************             Project Description        ***************************
+                                  Project Description        
 ********************************************************************************************
 
 Team members: 5 CS undergrads Students of the National School of Engineers of Sfax, Tunisia.
